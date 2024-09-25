@@ -62,7 +62,7 @@ body {
 }
 
 .msg-container {
-    height: 100vmin;
+    height: 120vmin;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,4 +80,9 @@ body {
 
 .o {
     color: red;
+}
+
+.downArrow {
+    margin-left: 90%;
+    margin-top: 10%;
 }
